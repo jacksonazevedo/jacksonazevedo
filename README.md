@@ -31,7 +31,7 @@
 ![](https://img.shields.io/badge/-C-0D1117?style=flat&logo=c&logoColor=A8B9CC&labelColor=0D1117)&nbsp;
 ![](https://img.shields.io/badge/-Delphi-0D1117?style=flat&logo=delphi&logoColor=B22222&labelColor=0D1117)&nbsp;
 ![](https://img.shields.io/badge/-Java-0D1117?style=flat&logo=openjdk&logoColor=FFA518&labelColor=0D1117)&nbsp;
- ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white&labelColor=0D1117)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white&labelColor=0D1117)&nbsp;
 
 
 </div>
