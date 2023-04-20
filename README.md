@@ -36,5 +36,5 @@
 
 </div>
 
-##Contact
-[![Linkedin Badge](https://img.shields.io/badge/-Jackson%20Azevedo-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jacksonnazevedo/)]([https://www.linkedin.com/in/wuirlen-azevedo-6534a0172/](https://www.linkedin.com/in/jacksonnazevedo/)) 
+## Contact
+[![Linkedin Badge](https://img.shields.io/badge/-Jackson%20Azevedo-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jacksonnazevedo/)]
